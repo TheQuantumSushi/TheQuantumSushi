@@ -28,4 +28,4 @@ Here, you will find all of my personal projects and works.
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=406134344558837760)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/thomas-hirschmiller)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-hirschmiller/)
